@@ -1,2 +1,2 @@
 # LeetCode-Practice
-Repo for LeetCode questions
+Repo with the LeetCode problems I'm doing over the summer to keep myself well-practiced in programming.
